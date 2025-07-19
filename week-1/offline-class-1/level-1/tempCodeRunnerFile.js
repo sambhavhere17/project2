@@ -1,2 +1,0 @@
-}
-getLength("Hello World");
